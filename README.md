@@ -1,16 +1,39 @@
-## Hi there 👋
+# Joaquín Liendro
 
-<!--
-**JoaquinLiendro/JoaquinLiendro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Análisis de Sistemas orientado al desarrollo Full Stack.
 
-Here are some ideas to get you started:
+## Tecnologías
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Express
+- SQL
+- C#
+- .NET
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### API REST Productos/Usuarios
+Proyecto backend realizado con Node.js y Express.
+
+🔗 https://github.com/JoaquinLiendro/node-express-rest-api.git
+
+---
+
+### Frontend Cine - Next.js
+Aplicación frontend realizada con React y Next.js consumiendo APIs.
+
+🔗 https://github.com/JoaquinLiendro/movie-app-nextjs.git
+
+---
+
+### Sistema de Cine - C# .NET
+Proyecto grupal académico realizado con C# y .NET.
+
+🔗 https://github.com/JoaquinLiendro/cinema-system-dotnet.git
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/joaquinliendro
+- Email: joaquintomas2323@gmail.com
